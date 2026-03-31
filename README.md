@@ -1,2 +1,2 @@
-- 关于Downix，如果有任何使用上的问题或者需求，都可以在这里提出来，谢谢
-- Any issues or features about Downix, just raise a ticket, Thanks
+- OiiQT，如果有任何使用上的问题或者需求，都可以在这里提出来，谢谢
+- Any issues or features about OiiQT, just raise a ticket, Thanks
